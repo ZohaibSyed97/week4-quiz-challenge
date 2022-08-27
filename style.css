@@ -1,0 +1,25 @@
+#section-container {
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+  padding: 1%;
+  background-color: #f6f6f6;
+}
+#welcome-text {
+  display: block;
+}
+#coding-title {
+  display: block;
+}
+#start-quiz-btn {
+  height: 40px;
+  display: block;
+  margin: auto;
+  background-color: #8a2be2;
+  color: #f6f6f6;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.start-quiz-btn:hover {
+  background-color: #b37ee4;
+}
